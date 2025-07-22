@@ -13,4 +13,6 @@ def convert(au):
     return au * 149597870700
 
 
-main()
+if __name__ == "__main__":
+    main()
+
